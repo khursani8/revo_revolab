@@ -16,6 +16,7 @@ dependencies = [
     "sacrebleu>=2.4.0",
     "jiwer>=3.0.3",
     "snac",
+    "tqdm",
 ]
 
 [tool.setuptools.packages.find]
