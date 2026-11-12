@@ -1,3 +1,5 @@
+> **Unique:** Python speech-evaluation metrics library: MCD, F0 correlation/RMSE, SDR family, PESQ/STOI, and MOS predictors (UTMOS via torch.hub) for scoring TTS/ASR output quality.
+
 # Revolab: Comprehensive Speech Evaluation Library
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
